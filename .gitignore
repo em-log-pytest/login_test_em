@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+.hypothesis/
+.tox/
+
+# Allure results
+allure-results/
+allure-report/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Backup files
+*.zip
+*.bak
+backup_*.zip
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Docker
+.docker/
